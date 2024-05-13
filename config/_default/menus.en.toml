@@ -1,0 +1,78 @@
+############# English navigation ##############
+
+# main menu
+[[main]]
+name = "Home"
+pageRef = "/"
+weight = 1
+
+[[main]]
+name = "About"
+pageRef = "/about"
+weight = 2
+
+[[main]]
+name = "How it works"
+pageRef = "/how-it-works"
+weight = 3
+
+[[main]]
+name = "Join our Journey"
+pageRef = "/join-our-journey"
+weight = 4
+
+[[main]]
+parent = "Join our Journey"
+name = "As an colaborator"
+pageRef = "/colaborator"
+
+[[main]]
+parent = "Join our Journey"
+name = "As an organization"
+pageRef = "/organization"
+
+# [[main]]
+# weight = 4
+# name = "Pages"
+
+# [[main]]
+# parent = "Pages"
+# name = "Blog"
+# pageRef = "/blog"
+
+# [[main]]
+# parent = "Pages"
+# name = "Contact"
+# pageRef = "/contact"
+
+# [[main]]
+# parent = "Pages"
+# name = "Authors"
+# pageRef = "/authors"
+
+# [[main]]
+# parent = "Pages"
+# name = "Categories"
+# pageRef = "/categories"
+
+# [[main]]
+# parent = "Pages"
+# name = "404 Page"
+# pageRef = "/404"
+
+
+# footer menu
+# [[footer]]
+# name = "About"
+# pageRef = "/about"
+# weight = 1
+
+# [[footer]]
+# name = "Elements"
+# pageRef = "/elements"
+# weight = 2
+
+[[footer]]
+name = "Privacy Policy"
+pageRef = "/privacy-policy"
+weight = 3

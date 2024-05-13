@@ -1,10 +1,8 @@
 ---
-title: "Elements"
-# meta title
-meta_title: ""
-# meta description
-description: "This is meta description"
-# save as draft
+title: "About Journey"
+meta_title: "About"
+description: false
+image: false
 draft: false
 ---
 
