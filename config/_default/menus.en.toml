@@ -75,4 +75,15 @@ pageRef = "/organization"
 [[footer]]
 name = "Privacy Policy"
 pageRef = "/privacy-policy"
+weight = 1
+
+[[footer]]
+name = "Terms and conditions"
+pageRef = "/terms-conditions"
+weight = 2
+
+[[footer]]
+name = "Acknoledgements and gratitude"
+pageRef = "/acknoledgements-gratitude"
 weight = 3
+

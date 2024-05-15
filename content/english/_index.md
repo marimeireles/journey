@@ -2,8 +2,9 @@
 # Banner
 banner:
   title: "Begin your open source Journey"
+  subtitle: "[The period for Organization applications is open!](/organization)"
   content: "Journey is an online program focused on bringing new contributors from developing nations into the global open source software scene. Journey offers 3 months long paid programming projects under the guidance of experienced software mentors. "
-  image: "/images/banner.png"
+  image: false
   button:
     enable: true
     label: "Learn more"
@@ -13,9 +14,7 @@ banner:
 features:
   - title: "Become a contributor"
     image: "/images/service-1.png"
-    content: "Are you new to open source and want to learn more about some interesting projects that you can contribute to? Join GSoC where mentors will help guide you on your journey!
-
-It is very important to reach out to the organizations that you are interested in as soon as possible. The more conversations you have with the community before you submit your proposal the better your chances of being selected into the GSoC. "
+    content: "Are you new to open source and want to learn more about some interesting projects that you can contribute to? Join Journey where mentors will help guide you on your software career!"
     # bulletpoints:
     #   - "10+ Pre-build pages"
     #   - "95+ Google Pagespeed Score"
@@ -38,6 +37,9 @@ It is very important to reach out to the organizations that you are interested i
       enable: true
       label: "Join Journey as an organization"
       link: "/organization"
+
+
+
 
   # - title: "The Top Reasons to Choose Hugo for Your Hugo Project"
   #   image: "/images/service-3.png"

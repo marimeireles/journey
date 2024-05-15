@@ -8,8 +8,18 @@
             <h1 class="mb-4 text-h3 lg:text-h1">
               {{ .title | markdownify }}
             </h1>
+
+            {{ if .subtitle }} <!-- Check if subtitle exists -->
+            <br>
+            <h2 class="subtitle mb-4 text-h3 lg:text-h1" style="font-size:30px; padding-bottom: 10px; padding-top: 10px; background-color: #f0f0f0; color: #333; padding-left: -10px; padding-right: -10px; border-radius: 5px;">
+              {{ .subtitle | markdownify }}
+            </h2>
+            <br>
+            {{ end }}
+
             <p class="mb-8">
               {{ .content | markdownify }}
+
             </p>
             {{ with .button }}
               {{ if .enable }}
@@ -25,13 +35,18 @@
               {{ end }}
             {{ end }}
           </div>
+
           <div class="col-12">
             {{ partial "image" (dict "Src" .image "Alt" "Banner image" "Loading" "eager" "Class" "mx-auto lg:!max-w-[800px]" "DisplayXL" "800x" ) }}
+
           </div>
+
         </div>
+
       </div>
     </section>
   {{ end }}
+
   <!-- /Banner -->
 
   <!-- Features -->
