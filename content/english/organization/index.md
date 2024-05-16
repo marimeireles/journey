@@ -8,19 +8,17 @@ Currently, [applications for collaborators are open](https://docs.google.com/for
 
 <br>
 <div class="flex items-center justify-center">
-{{< button class="justify-center" label="Join Journey's mailing list" link="http://eepurl.com/iP4NFI" style="solid" >}}
+{{< button class="justify-center" label="Join Journey as an organization" link="https://docs.google.com/forms/d/1OUaMJoVmnqNFf2D26Vu4WscSWKxdHWycyiCncSy6pCM/" style="solid" >}}
 </div>
 <hr>
 
 #### What to expect from Journey as an organization
 
-** Journey offers a bridge between highly capacitated developers from nations that are not as much payed attention to and projects that are committed to open and diverse standards.
+Journey faciliates the connection between highly highly skilled developers from underrepresented nations and organizations that are dedicated to maintaining open and inclusive standards.
 
 We expect organizations to offer a place for growth of collaborators and we ask them to see this as a fellowship program rather than an colaboration period or contractor work.
 
-** Journey is not a hiring company and it has no vinculos empregaticios. And the companies will be hiring collaborators as a 3rd party in a contract fashion as in ____. All the arrangements between payment of the collaborator should be done with the organization and the contractor. Journey will provide support for collaborators to set up their own free-lancer entities in case they don't have one.
-
-** Members of Journey will regularly meet with collaborators and capacitate them with relevant themes through workshops and talks.
+Journey is not an employment agency and does not establish formal employment relationships. Organizations will engage collaborators on a contract basis, similar to Outreachy's contract system. All payment arrangements should be made directly between the organization and the contractor. Journey will offer assistance to collaborators in establishing their own freelance entities if they do not already have one.
 
 For an organization the process looks like the following:
 

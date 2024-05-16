@@ -2,7 +2,7 @@
 # Banner
 banner:
   title: "Begin your open source Journey"
-  subtitle: "[The period for Organization applications is open!](/organization)"
+  subtitle: "[The period for organization applications is open!](/organization)"
   content: "Journey is an online program focused on bringing new contributors from developing nations into the global open source software scene. Journey offers 3 months long paid programming projects under the guidance of experienced software mentors."
   image: false
   button:
@@ -31,8 +31,8 @@ features:
     image: "/images/service-2.png"
     content: "Our mentoring organizations are eager to teach newcomers to open source about their communities and the thrill of open source development. "
     bulletpoints:
-      - "[Learn why your organization should participate Journey](https://github.com/zeon-studio/hugoplate)"
-      - "[Interested in becoming a Journey Mentor?](https://github.com/zeon-studio/hugoplate)"
+      - "Learn why your organization should participate Journey"
+      - "Become a mentor for someone's Journey and change their lives"
     button:
       enable: true
       label: "Join Journey as an organization"

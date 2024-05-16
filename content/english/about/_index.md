@@ -6,7 +6,9 @@ image: false
 draft: false
 ---
 
-** Journey is a program aimed at bridging the tech divide between the global north and south. It leverages the often unexplored talent of individuals in the global south and connects them to organizations so their impact can be global. Journey focuses on individuals from low-income backgrounds and, together with partner organizations, helps them by fostering for their career into the tech world.
+Journey is a program aimed at bridging the tech divide between the developed nations and nations in development. Focused on individuals from low-income backgrounds, Journey, in collaboration with partner organizations, supports their career advancement in the tech industry.
+
+Join our mailing list to keep connected or send us an [e-mail](mailto:mariana@opensourcejourney.org)!
 
 <br>
 <div class="flex items-center justify-center">

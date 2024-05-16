@@ -10,7 +10,7 @@ draft: false
 
 #### Data
 
-**The data stored by Journey is kept for data analysis reasons only. We want to understand and serve our community better in the future. Once the collaboration round finishes all the information is anonymized and no one other than Journey's contributors have access to this data. Our data processing policies are in accordance to Germany's data privacy and processing laws. You can learn more about them here.
+The data collected by Journey is retained solely for analytical purposes to enhance our understanding and service to our community. Upon the conclusion of each collaboration round, all data is anonymized to ensure privacy. Access to this information is restricted to Journey's contributors. Our data processing practices comply with Germany's data privacy and processing regulations. You can learn more about our policies here.
 
 #### Cookies
 

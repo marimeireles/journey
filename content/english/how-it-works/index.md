@@ -4,7 +4,8 @@ title: "How Journey works"
 
 ### Contributors
 
-Potential contributors apply to Journey and go through a manual review process in which we check whether they meet Journey's requirements. Once they get a green light from us, contributors should reach out to the organizations they're excited to work with and start to put together project proposals based on the ideas those organizations have suggested. Journey contributors spend a few weeks getting acquainted with the community's way of doing things and digging into the codebase. At the same time, they team up with their mentor to map out some awesome milestones for their upcoming collaboration period. Once this period is done contributors should send in their projects and the organizations should decide on which contributors to invite. Journey contributors then spend 12 weeks coding on their projects.
+
+Potential contributors submit applications to Journey, which undergoes a thorough manual review to ensure compliance with Journey's criteria. Upon approval, applicants are encouraged to connect with the organizations they are interested in and begin developing project proposals based on the suggested ideas. During the initial weeks, Journey applicants familiarize themselves with the community's practices and start working on solving small tasks. Applicants should also develop a plan on how they want to tackle the project propposed by the organization they are applying to, by the end of the month they must submit this project to the mentor they are interested in working with. Organizations, then, make selections on which contributors to invite. The selected Journey contributors then dedicate 12 weeks to developing their projects.
 
 ### Organizations
 
