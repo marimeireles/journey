@@ -4,7 +4,7 @@ image: false
 draft: false
 ---
 
-Currently, [applications for colaborators are open](https://docs.google.com/forms/d/1OUaMJoVmnqNFf2D26Vu4WscSWKxdHWycyiCncSy6pCM/)! Join our mailing list to keep up to date with Journey's milestones.
+Currently, [applications for collaborators are open](https://docs.google.com/forms/d/1OUaMJoVmnqNFf2D26Vu4WscSWKxdHWycyiCncSy6pCM/)! Join our mailing list to keep up to date with Journey's milestones.
 
 <br>
 <div class="flex items-center justify-center">
@@ -33,9 +33,9 @@ For an organization the process looks like the following:
 
 #### Developing a project
 
-Jouney mentors define a project for colaborators to work on during the three month period.
+Jouney mentors define a project for collaborators to work on during the three month period.
 
-What makes a good project? (Credit to QEMU coordinator Stefan Hajnoczi's talk at KVM Forum for these tips.) A project that is suitable for colaborators to work on is:
+What makes a good project? (Credit to QEMU coordinator Stefan Hajnoczi's talk at KVM Forum for these tips.) A project that is suitable for collaborators to work on is:
 
 - **Well-defined** - The project has a well defined scope.
 - **Self-contained** - Has few dependencies on uncompleted work. Does not require interacting with multiple open source communities who are not on-board with interacting with a collaborator.
@@ -52,7 +52,7 @@ Journey mentors need to define a set of newcomer-friendly tasks (called "contrib
 
 The goal of contribution period tasks is for mentors to determine whether the applicant has the skills to be successful during the colaboration period. Working on contribution period tasks also help applicants get familiar with the mentor and the open source / open science community norms.
 
-In order to be accepted as an colaborator, applicants need to complete at least one contribution period task. Therefore, it is very important for mentors to prepare a well-detailed list of contribution period tasks
+In order to be accepted as an collaborator, applicants need to complete at least one contribution period task. Therefore, it is very important for mentors to prepare a well-detailed list of contribution period tasks
 
 ##### Listing contribution period tasks
 
@@ -111,7 +111,7 @@ A medium-sized task should test the skills that are necessary for an intern to b
 
 A strong applicant submits thoughtful contribution period tasks, and edits their work when feedback is given.
 
-We encourage mentors to value communication first. Journey's goal is to help colaborators learn and grow their open source skills. Growth cannot happen without communication and collaboration. We encourage mentors to value applicants who communicate during the contribution period.
+We encourage mentors to value communication first. Journey's goal is to help collaborators learn and grow their open source skills. Growth cannot happen without communication and collaboration. We encourage mentors to value applicants who communicate during the contribution period.
 
 We encourage mentors to value the quality of the applicant's contribution period tasks, over the number of contribution period tasks that an applicant completes. It is risky to accept an applicant who submits many small contributions with little substance. These small contributions may not be enough to judge whether the applicant will be successful during the colaboration period.
 
@@ -127,11 +127,11 @@ Journey is open to Brazilians. Unfortunately, that means you can get questions a
 
 The downside to this is that some applicants will not be able to get their questions answered during their normal working hours. You may find that some applicants even shift their work or sleep schedule to be available during your office hours. This can be added emotional labor for parents with children, or people who are currently working and trying to switch careers into tech.
 
-On the other hand, you will need to set up regular check-in times with your intern. So being up front about when you are available to help will narrow the applicants down to ones that have a window to work with you. Some mentors have been able to make working with an applicant with a 12 hour timezone difference, and some mentors have struggled. You know yourself and your work habits. Make the best call for you, while still being open to working with Journey colaborators in many different timezones and countries.
+On the other hand, you will need to set up regular check-in times with your intern. So being up front about when you are available to help will narrow the applicants down to ones that have a window to work with you. Some mentors have been able to make working with an applicant with a 12 hour timezone difference, and some mentors have struggled. You know yourself and your work habits. Make the best call for you, while still being open to working with Journey collaborators in many different timezones and countries.
 
 ##### Find unofficial volunteers
 
-You can ask experienced contributors to your community to be "unofficial" volunteers. These volunteers could be past other colaborators within your community, or other community members. They don't have to be official mentors, but they can help answer questions.
+You can ask experienced contributors to your community to be "unofficial" volunteers. These volunteers could be past other collaborators within your community, or other community members. They don't have to be official mentors, but they can help answer questions.
 
 Unofficial volunteers can help people set up contribution environment and tools. They can help with common contribution tools, like git or other revision control software. Unofficial volunteers can also provide experience with community norms. Community norms could be something technical like what coding style to use. Community norms can also involve communication style, like how to effectively ask for help.
 
@@ -167,9 +167,9 @@ You can encourage applicants to help each other. Encourage them to engage with a
 
 The upside of encouraging applicants to collaborate is you may lessen the workload for mentors.
 
-There are several downsides, however. One is that applicants with impostor syndrome may feel shy about sharing answers to questions, even if they know the correct answer. Second, some colaborators may live in countries where they are taught to defer to teachers or people in authority. Answering a question that is directed at experienced developers may seem taboo or breaking a cultural norm.
+There are several downsides, however. One is that applicants with impostor syndrome may feel shy about sharing answers to questions, even if they know the correct answer. Second, some collaborators may live in countries where they are taught to defer to teachers or people in authority. Answering a question that is directed at experienced developers may seem taboo or breaking a cultural norm.
 
-Additionally, gender bias may come into play when you're looking for colaborators that collaborate with each other. Women and non-binary people who were assigned female at birth (AFAB) are often socially conditioned to not speak up unless they are extremely confident in their answer. You may find that men and non-binary people who were raised with masculine cultural norms are more likely to speak up and answer questions. Gender bias and gendered social norms should be considered when making intern selections.
+Additionally, gender bias may come into play when you're looking for collaborators that collaborate with each other. Women and non-binary people who were assigned female at birth (AFAB) are often socially conditioned to not speak up unless they are extremely confident in their answer. You may find that men and non-binary people who were raised with masculine cultural norms are more likely to speak up and answer questions. Gender bias and gendered social norms should be considered when making intern selections.
 
 ##### Close your project to new applicants
 

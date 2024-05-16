@@ -15,7 +15,7 @@ Currently, applications for colaborators are closed. Join our mailing list to ke
 
 #### What to expect from Journey as a collaborator
 
-**Journey aims to create an environment that fosters learning, while giving the opportunity for people living in developing nations from the lower layers of the economic scale to advance their career through open source contributions, increasing their ability to work and cooperate with others remotely.
+Journey is dedicated to fostering an educational environment that also enables individuals from lower economic classes in developing nations to enhance their career prospects through open source contributions.
 
 **Basic programming knowledge is required to participate Journey. You will be mainly collaborating with organizations through [Git]() and programming languages will vary according to the projects available. Journey's process conatains four phases:
 
@@ -32,13 +32,13 @@ Journey collaborators submit an initial application. Journey organizers use the 
 
 These eligibility rules apply to the 2024 Journey's collaborators round. Dates may change for future rounds.
 
-**Journey is only available in Brazil for its first iteration. The reason being because its organizers have a larger expertise in Brazilian's legal system. We hope to be able to expand Journey to encompass the remainder of the global south in the next iterations.
+Journey is initially available only in Brazil due to the organizers' having larger expertise on the Brazilian legal system. We aim to expand the program to include other developing nations in future iterations
 
 1. General eligibility
 
     - You must be 18 years of age or older by the beginning of your collaboration with an organization.
     - You must be available for a full-time collaboration. That means you have to commit 30 hours of your week towards working with your matched organization. The collaboration period runs for 3 months.
-    **- You must be part of the lower economic layers of your respective country. This is hard to measure and we understand it is in many ways a subjective matter. If you believe you suffered endemic discrimination because of your social-economic class within your society, Journey is for you.
+    - You must be a resident of a [developing country](https://www.worlddata.info/developing-countries.php) and be within the lower economic layers of this your country. This criterion can be subjective and challenging to quantify. However, if you have faced systemic discrimination due to your socio-economic status, Journey is for you, please apply!
 
 2. Past internships
 

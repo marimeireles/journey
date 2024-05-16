@@ -23,8 +23,8 @@ weight = 4
 
 [[main]]
 parent = "Join our Journey"
-name = "As an colaborator"
-pageRef = "/colaborator"
+name = "As an collaborator"
+pageRef = "/collaborator"
 
 [[main]]
 parent = "Join our Journey"

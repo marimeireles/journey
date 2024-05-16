@@ -3,7 +3,7 @@
 banner:
   title: "Begin your open source Journey"
   subtitle: "[The period for Organization applications is open!](/organization)"
-  content: "Journey is an online program focused on bringing new contributors from developing nations into the global open source software scene. Journey offers 3 months long paid programming projects under the guidance of experienced software mentors. "
+  content: "Journey is an online program focused on bringing new contributors from developing nations into the global open source software scene. Journey offers 3 months long paid programming projects under the guidance of experienced software mentors."
   image: false
   button:
     enable: true
@@ -25,7 +25,7 @@ features:
     button:
       enable: true
       label: "Get Started Now"
-      link: "/colaborator"
+      link: "/collaborator"
 
   - title: "Open source organizations"
     image: "/images/service-2.png"
