@@ -1,11 +1,11 @@
 ---
-title: "Join Journey as a colaborator"
+title: "Join Journey as a collaborator"
 description: false
 image: false
 draft: false
 ---
 
-Currently, applications for colaborators are closed. Join our mailing list to keep up to date with our application period and read more about the Journey!
+Currently, applications for collaborators are closed. Join our mailing list to keep up to date with our application period and read more about the Journey!
 
 <br>
 <div class="flex items-center justify-center">
@@ -17,7 +17,7 @@ Currently, applications for colaborators are closed. Join our mailing list to ke
 
 Journey is dedicated to fostering an educational environment that also enables individuals from lower economic classes in developing nations to enhance their career prospects through open source contributions.
 
-Basic programming knowledge is required to participate Journey. You will be mainly collaborating with organizations through [Git]() and programming languages will vary according to the projects available. Journey's process conatains four phases:
+Participants in Journey are required to have basic programming skills. Collaboration with organizations will primarily occur through Git, and the programming languages used will differ based on the available projects. The Journey program is structured into four distinct phases:
 
 1. Potential collaborators apply and if they meet the eligibility principles, they are in! They are now allowed to choose a project proposed by an organization and start working on it.
 2. For an entire month the collaborator will have the chance to meet the organization it might work with in the future. In this step it is really important to communicate frequently with your possible future co-workers and make sure they understand your way of working and you theirs! Collaborators can take on issues that are tagged as Journey appropriate and tackle them. During this period, collaborators will also be invited by Journey to take part on workshops with seasoned open source contributors that will teach them valuable skills for their future work. Keep in mind that in order to be accepted as a long term collaborator, you need to finish at least one task proposed by the project. A contribution period task does not have result in code being merged into the project. For example, a user experience contribution period task could ask the applicant to use the open source software and write a short report on an aspect of the user interface that was confusing. That report could be uploaded to a file sharing service and shared with Journey mentors.
